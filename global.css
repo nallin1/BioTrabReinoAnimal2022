@@ -30,6 +30,10 @@
   border-radius: 15%;
 }
 
+.card-img{
+  border-radius: 3%;
+}
+
 .card{
   justify-content: start;
   border-radius: 1%;
@@ -41,13 +45,19 @@ ul {
   list-style-type: none;
 }
 
-li{
+.li-prin{
   border-left: 6px solid #000000;
   padding-left: 10px;
 }
 
+.li-sub{
+  list-style-type: disc;
+  margin-left: 8%;
+  padding-inline-start: 0px;
+}
 
 h2 {
+  padding-top: 7px;
   font-family: 'Bebas Neue', cursive;
 }
 
@@ -56,9 +66,15 @@ h4 {
   text-align: center;
 }
 
-h6{
+.card-subtitle1{
   font-family: 'Cinzel', serif;
   font-weight: bold;
+}
+
+.card-subtitle2{
+  font-family: 'Cinzel', serif;
+  font-weight: normal;
+  font-style: oblique;
 }
 
 
