@@ -16,13 +16,21 @@
   
 }
 
-.intro {
+.introbg {
+ background-color: white;
+ border: solid 1px black;
+ padding: 20px 20px;
  align-self: flex-start;
  margin-left: 100px;
- text-align: justify;
- justify-items: right; 
- font-size: large;
- 
+ opacity: 90%;
+ display: flex;
+ max-width: 750px;
+}
+
+.intro{
+  text-align: justify;
+  justify-items: right; 
+  font-size: large;
 }
 
 #img1 {
@@ -57,6 +65,7 @@ ul {
 }
 
 h2 {
+  text-align: center;
   padding-top: 7px;
   font-family: 'Bebas Neue', cursive;
 }
@@ -77,4 +86,10 @@ h4 {
   font-style: oblique;
 }
 
+.citacao{
+  border-left: 6px solid #000000;
+  padding-left: 10px;
+  font-weight: 200;
+  font-size: medium;
+}
 
