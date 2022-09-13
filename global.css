@@ -64,13 +64,14 @@ ul {
   padding-inline-start: 0px;
 }
 
-h2 {
+h1, h2{
   text-align: center;
   padding-top: 7px;
   font-family: 'Bebas Neue', cursive;
 }
 
-h4 {
+
+h3, h4 {
   font-family: 'Bebas Neue', cursive;
   text-align: center;
 }
