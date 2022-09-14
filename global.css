@@ -94,3 +94,16 @@ h3, h4 {
   font-size: medium;
 }
 
+.imgInspira {
+  border-radius: 3%;
+  opacity: 100%;
+  float: left;
+  padding-right: 10px;
+}
+
+.inspiracao::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
