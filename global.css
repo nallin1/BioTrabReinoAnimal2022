@@ -13,7 +13,7 @@
  padding-bottom: 25px;
  border: 2px solid black;
  margin-bottom: 25px;
-  
+
 }
 
 .introbg {
@@ -29,7 +29,7 @@
 
 .intro{
   text-align: justify;
-  justify-items: right; 
+  justify-items: right;
   font-size: large;
 }
 
@@ -45,7 +45,6 @@
 .card{
   justify-content: start;
   border-radius: 1%;
-   
 }
 
 ul {
