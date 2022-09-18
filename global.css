@@ -36,10 +36,10 @@
 .bibliografia{
  background-color: white;
  border: solid 1px black;
- padding: 20px 20px;
- margin-left: 25px;
- margin-right: 25px;
- margin-top: 25px;
+ padding: 25px 25px;
+ margin-left: 250px;
+ margin-right: 200px;
+ margin-top: 10px;
  margin-bottom: 25px;
  opacity: 90%;
  text-align: justify;
@@ -47,7 +47,6 @@
  flex-direction: row;
  justify-content: center;
  align-items: center;
- 
 }
 
 
