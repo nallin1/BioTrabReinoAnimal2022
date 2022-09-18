@@ -33,6 +33,25 @@
   font-size: large;
 }
 
+.bibliografia{
+ background-color: white;
+ border: solid 1px black;
+ padding: 20px 20px;
+ margin-left: 25px;
+ margin-right: 25px;
+ margin-top: 25px;
+ margin-bottom: 25px;
+ opacity: 90%;
+ text-align: justify;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ 
+}
+
+
+
 #img1 {
   justify-content: start;
   border-radius: 15%;
