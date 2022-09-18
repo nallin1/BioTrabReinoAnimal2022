@@ -43,6 +43,8 @@
 }
 
 .card{
+  margin-top: 8%;
+  align-self: flex-start;
   justify-content: start;
   border-radius: 1%;
 }
