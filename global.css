@@ -65,6 +65,8 @@
   align-self: flex-start;
   justify-content: start;
   border-radius: 1%;
+  width: 50%;
+  height: auto;
 }
 
 ul {
