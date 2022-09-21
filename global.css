@@ -106,6 +106,7 @@ h3, h4 {
   font-family: 'Cinzel', serif;
   font-weight: normal;
   font-style: oblique;
+  
 }
 
 .citacao{
@@ -127,4 +128,10 @@ h3, h4 {
   clear: both;
   display: table;
 }
+
+img{
+  display: block;
+  margin: 0px auto;
+ }
+
 
